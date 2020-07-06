@@ -36,3 +36,10 @@ npm storybook
 # or
 yarn storybook
 ```
+
+## PWA
+
+```bash
+NODE_ENV=production yarn build
+yarn start
+```
