@@ -43,3 +43,9 @@ yarn storybook
 NODE_ENV=production yarn build
 yarn start
 ```
+
+## Using boilerplate 
+
+```bash
+yarn create next-app -e https://github.com/naaataliaazevedo/boilerplate
+```
